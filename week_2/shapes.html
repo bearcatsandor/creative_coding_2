@@ -1,0 +1,65 @@
+<html>
+    <head>
+        <title>
+           Bearcat M. Şándor - Self Portrait
+        </title>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.5.0/p5.min.js"></script>
+        <script>
+            var x = 0;
+            var y = 0;
+            var box_x = 0;
+            var box_y = 0;
+            var diameter = 50;
+            var movement = Math.floor(Math.random() * 10) + 1;
+            var timestamp = 0;
+            //var movement = 3;
+            function setup() {
+                createCanvas(800, 800);
+            }
+            function mouseDragged() {
+                 box_x = mouseX;
+                 box_y = mouseY;
+             }
+            function draw() {
+                background(128,128,128);
+                noFill()
+               /* Lets add some moving and spinning shapes. I'll use ovals so that I don't
+                have to deal with increasing all those damned points*/
+                // oval on x-axis                
+               fill(141, 88, 161);
+               ellipse(x,670,20, 40);
+               // rounded square on x-axis
+               square(x,6, 35, 50);
+               x += movement;
+               // oval on y-axis                
+               fill(88, 90, 161);
+               ellipse(15, y,20, 40);
+               // rounded square on y-axis
+               square(750, y, 35, 50);
+               y += movement;
+               // Bounce off walls
+               if((x >= 800 || x <= 0) || (y >= 800 || y <= 0))
+               {
+                  movement *= -1;
+               }
+               //Shapes on the diagonal
+               fill(222, 224, 72);
+               ellipse(x,y,20, 40);
+               square(x+20,y+50, 35, 50);
+             
+               //Make a big square that can be moved
+               fill(220, 155, 243);
+               rect(box_x, box_y, 100, 100);
+               
+               // textual items
+               fill(0, 102, 153);
+               textSize(32);
+               text("Bearcat", 650, 780);
+               text("Life is a Party (drag the box)", 50, 50);
+             
+            }
+        </script>
+    </head>
+    <body>
+    </body>
+</html>
