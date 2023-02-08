@@ -3,6 +3,10 @@
 * try to draw that in P5, so my new favorite
 * food is pancakes */ 
 
+let myFont;
+function preload() {
+    myFont = loadFont('./_assets/fonts/JetBrainsMono-Bold.woff2');
+}
 function setup() {
    createCanvas(800, 500);
 }
@@ -21,4 +25,11 @@ function draw() {
     let b = color (251,236,93);
     fill(b);
     square(320,220,55);
+    
+    /* add textual items */  
+    fill(0, 102, 153);
+    textSize(32);
+    text("Bearcat", 650, 780);
+    text("pancakes!", 50, 50);
 }
+

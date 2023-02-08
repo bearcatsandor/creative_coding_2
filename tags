@@ -6054,6 +6054,7 @@ mouseover	week_3/_assets/libs/p5.min.js	/^!function(e){"object"==typeof exports&
 mouseup	week_3/_assets/libs/p5.min.js	/^!function(e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function"=/;"	p	property:Qt.$t.sr.C.O.anonymousFunctione37d42ae95a00.anonymousFunctione37d42aeb1100._events
 moveTo	week_3/_assets/libs/p5.min.js	/^!function(e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function"=/;"	m	class:f
 mr	week_3/_assets/libs/p5.min.js	/^!function(e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function"=/;"	f	function:Qt.$t.sr
+myFont	week_3/_assets/js/food.js	/^let myFont;$/;"	v
 n	week_3/_assets/libs/p5.min.js	/^!function(e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function"=/;"	M	variable:Qt.$t.sr.C.O.anonymousFunctione37d42ae95a00.anonymousFunctione37d42aeb1100
 n	week_3/_assets/libs/p5.min.js	/^!function(e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function"=/;"	M	variable:Qt.$t.sr.C.O.anonymousFunctione37d42ae95a00.anonymousFunctione37d42aeb1100.anonymousObjecte37d42aebf405
 n	week_3/_assets/libs/p5.min.js	/^!function(e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function"=/;"	M	variable:anonymousFunctione37d42ae0200.anonymousFunctione37d42aeca00
@@ -6662,6 +6663,7 @@ postScriptName	week_3/_assets/libs/p5.min.js	/^!function(e){"object"==typeof exp
 powderblue	week_3/_assets/libs/p5.min.js	/^!function(e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function"=/;"	p	variable:Qt.$t.sr.C.O.anonymousFunctione37d42ae95a00.anonymousObjecte37d42aea4b05
 pr	week_3/_assets/libs/p5.min.js	/^!function(e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function"=/;"	f	function:Qt.$t.sr
 pre	week_3/_assets/libs/p5.min.js	/^!function(e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function"=/;"	p	variable:Qt.$t.sr.C.O.anonymousFunctione37d42ae95a00.anonymousFunctione37d42aeb1100.anonymousObjecte37d42aeb3705
+preload	week_3/_assets/js/food.js	/^function preload() {$/;"	f
 previous	week_3/_assets/libs/p5.min.js	/^!function(e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function"=/;"	p	variable:anonymousObjecte37d42aebf05
 primitiveType	week_3/_assets/libs/p5.min.js	/^!function(e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function"=/;"	p	variable:anonymousFunctione37d42ae0200.anonymousFunctione37d42aeca00.anonymousObjecte37d42aee905.anonymousFunctione37d42aef800.anonymousFunctione37d42ae43700.anonymousFunctione37d42ae45300.anonymousFunctione37d42ae54e00.T.anonymousObjecte37d42ae5b905
 print	week_3/_assets/libs/p5.min.js	/^!function(e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function"=/;"	m	method:v.PrintWriter.write
