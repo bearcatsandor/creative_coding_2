@@ -5,8 +5,12 @@
 
 let myFont;
 function preload() {
-    myFont = loadFont('./_assets/fonts/JetBrainsMonoNL-Bold.ttf');
+    myFont = loadFont('../_assets/fonts/JetBrainsMonoNL-Bold.ttf');
+    img_wine = loadImage('../images/wine_glass.png');
+    img_spoon = loadImage('../images/spoon.png');
+    img_fork = loadImage('../images/fork.png');
 }
+
 function setup() {
    createCanvas(800, 500);
 }
@@ -28,6 +32,7 @@ function draw() {
     
     /* add textual items */
     fill(0, 102, 153);
+    textFont(myFont);
     textSize(32);
     text("Bearcat", 650, 780);
     text("pancakes!", 50, 50);
