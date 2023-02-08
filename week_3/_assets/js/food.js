@@ -6,9 +6,9 @@
 let myFont;
 function preload() {
     myFont = loadFont('./_assets/fonts/JetBrainsMonoNL-Bold.ttf');
-    img_wine = loadImage('./images/wine_glass.png');
-    img_spoon = loadImage('./images/spoon.png');
-    img_fork = loadImage('./images/fork.png');
+    img_wine = loadImage('./_assets/images/wine_glass.png');
+    img_spoon = loadImage('./_assets/images/spoon.png');
+    img_fork = loadImage('./_assets/images/fork.png');
 }
 
 function setup() {
