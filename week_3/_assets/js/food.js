@@ -26,10 +26,9 @@ function draw() {
     fill(b);
     square(320,220,55);
     
-    /* add textual items */  
+    /* add textual items */
     fill(0, 102, 153);
-    textSize(32);
+    textSize(32);
     text("Bearcat", 650, 780);
     text("pancakes!", 50, 50);
 }
-
