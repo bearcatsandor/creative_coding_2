@@ -5,10 +5,10 @@
 
 let myFont;
 function preload() {
-    myFont = loadFont('../_assets/fonts/JetBrainsMonoNL-Bold.ttf');
-    img_wine = loadImage('../images/wine_glass.png');
-    img_spoon = loadImage('../images/spoon.png');
-    img_fork = loadImage('../images/fork.png');
+    myFont = loadFont('./_assets/fonts/JetBrainsMonoNL-Bold.ttf');
+    img_wine = loadImage('./images/wine_glass.png');
+    img_spoon = loadImage('./images/spoon.png');
+    img_fork = loadImage('./images/fork.png');
 }
 
 function setup() {
