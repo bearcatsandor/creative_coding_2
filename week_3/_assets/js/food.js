@@ -5,7 +5,7 @@
 
 let myFont;
 function preload() {
-    myFont = loadFont('./_assets/fonts/JetBrainsMono-Bold.woff2');
+    myFont = loadFont('./_assets/fonts/JetBrainsMonoNL-Bold.ttf');
 }
 function setup() {
    createCanvas(800, 500);
