@@ -13,6 +13,9 @@ function preload() {
 
 function setup() {
    createCanvas(800, 500);
+   image(img_wine, 250, 400);
+   image(img_spoon, 350, 500);
+   image(img_fork, 350, 500);
 }
 function draw() {
     background(220);
