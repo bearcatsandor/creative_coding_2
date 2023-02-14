@@ -14,13 +14,13 @@ function preload() {
 function setup() {
    createCanvas(800, 500);
    img_wine.resize(100,0); 
-   image(img_wine, 250, 400);
+   image(img_wine, 250, 200);
 
    img_spoon.resize(100,0);
-   image(img_spoon, 350, 500);
+   image(img_spoon, 350, 200);
 
    image_fork.resize(100,0);
-   image(img_fork, 350, 500);
+   image(img_fork, 350, 200);
 }
 function draw() {
     background(220);
