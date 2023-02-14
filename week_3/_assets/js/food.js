@@ -34,8 +34,6 @@ function draw() {
     fill(0, 102, 153);
     textFont(myFont);
     textSize(32);
-    text("Bearcat 0", 250, 280);
-
-    fill(0, 102, 153);
+    text("Bearcat 0", 650, 150);
     text("pancakes!", 150, 150);
 }
