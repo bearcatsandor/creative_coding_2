@@ -13,15 +13,8 @@ function preload() {
 
 function setup() {
    createCanvas(800, 500);
-   img_wine.resize(100,0); 
-   image(img_wine, 250, 200);
 
-   img_spoon.resize(100,0);
-   image(img_spoon, 350, 200);
-
-   image_fork.resize(100,0);
-   image(img_fork, 350, 200);
-}
+   }
 function draw() {
     background(220);
     /* make plate */
@@ -37,7 +30,16 @@ function draw() {
     let b = color (251,236,93);
     fill(b);
     square(320,220,55);
-    
+
+    img_wine.resize(100,0); 
+    image(img_wine, 250, 200);
+
+    img_spoon.resize(100,0);
+    image(img_spoon, 350, 200);
+
+    image_fork.resize(100,0);
+    image(img_fork, 350, 200);
+
     /* add textual items */
     fill(0, 102, 153);
     textFont(myFont);
