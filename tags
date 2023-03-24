@@ -6461,6 +6461,8 @@ name	week_3/_assets/libs/p5.min.js	/^!function(e){"object"==typeof exports&&"und
 name	week_3/_assets/libs/p5.min.js	/^!function(e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function"=/;"	p	variable:qe.anonymousObjecte37d42ae6c405
 nameToGlyph	week_3/_assets/libs/p5.min.js	/^!function(e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function"=/;"	m	class:k
 nameToGlyphIndex	week_3/_assets/libs/p5.min.js	/^!function(e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function"=/;"	m	class:k
+napkinX	week_3/_assets/js/food.js	/^var napkinX = 10;$/;"	v
+napkinY	week_3/_assets/js/food.js	/^var napkinY = 165;$/;"	v
 navajowhite	week_3/_assets/libs/p5.min.js	/^!function(e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function"=/;"	p	variable:Qt.$t.sr.C.O.anonymousFunctione37d42ae95a00.anonymousObjecte37d42aea4b05
 navy	week_3/_assets/libs/p5.min.js	/^!function(e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function"=/;"	p	variable:Qt.$t.sr.C.O.anonymousFunctione37d42ae95a00.anonymousObjecte37d42aea4b05
 ne	week_3/_assets/libs/p5.min.js	/^!function(e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function"=/;"	f	function:anonymousFunctione37d42ae0200.anonymousFunctione37d42aeca00.anonymousObjecte37d42aee905.anonymousFunctione37d42aef800.anonymousFunctione37d42ae43700.anonymousFunctione37d42ae45300.anonymousFunctione37d42ae54e00.T.t.re
@@ -6643,6 +6645,7 @@ password	week_3/_assets/libs/p5.min.js	/^!function(e){"object"==typeof exports&&
 path	week_3/_assets/libs/p5.min.js	/^!function(e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function"=/;"	f	variable:t
 path	week_3/_assets/libs/p5.min.js	/^!function(e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function"=/;"	p	variable:Qt.$t.sr.C.O.anonymousFunctione37d42ae95a00.anonymousFunctione37d42aeb1100.anonymousFunctione37d42aefce00.anonymousObjecte37d42ae117505
 pathname	week_3/_assets/libs/p5.min.js	/^!function(e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function"=/;"	p	variable:anonymousFunctione37d42ae0200.anonymousFunctione37d42aeca00.anonymousObjecte37d42aee905.anonymousFunctione37d42aef800.anonymousFunctione37d42ae43700.anonymousFunctione37d42ae45300.anonymousObjecte37d42ae4d705
+pauseSeconds	week_3/_assets/js/food.js	/^function pauseSeconds () {$/;"	f
 peachpuff	week_3/_assets/libs/p5.min.js	/^!function(e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function"=/;"	p	variable:Qt.$t.sr.C.O.anonymousFunctione37d42ae95a00.anonymousObjecte37d42aea4b05
 peru	week_3/_assets/libs/p5.min.js	/^!function(e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function"=/;"	p	variable:Qt.$t.sr.C.O.anonymousFunctione37d42ae95a00.anonymousObjecte37d42aea4b05
 phongFrag	week_3/_assets/libs/p5.min.js	/^!function(e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function"=/;"	p	variable:Qt.$t.sr.C.O.anonymousFunctione37d42ae95a00.anonymousFunctione37d42aeb1100.anonymousFunctione37d42aefce00.anonymousObjecte37d42ae112505
@@ -7161,6 +7164,7 @@ throw	week_3/_assets/libs/p5.min.js	/^!function(e){"object"==typeof exports&&"un
 throw	week_3/_assets/libs/p5.min.js	/^!function(e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function"=/;"	M	variable:anonymousFunctione37d42ae0200
 throw	week_3/_assets/libs/p5.min.js	/^!function(e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function"=/;"	M	variable:anonymousFunctione37d42ae0200.anonymousFunctione37d42aeca00.anonymousObjecte37d42aee905.anonymousFunctione37d42aef800.anonymousFunctione37d42ae43700.anonymousFunctione37d42ae45300
 timeDisplayed	week_3/_assets/libs/p5.min.js	/^!function(e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function"=/;"	p	variable:Qt.$t.sr.C.O.anonymousFunctione37d42ae95a00.anonymousFunctione37d42aeb1100.anonymousObjecte37d42aede605
+timerNapkinAnim	week_3/_assets/js/food.js	/^var timerNapkinAnim = 1;$/;"	v
 toArrayBuffer	week_3/_assets/libs/p5.min.js	/^!function(e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function"=/;"	m	class:k
 toBuffer	week_3/_assets/libs/p5.min.js	/^!function(e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function"=/;"	m	class:k
 toDOMElement	week_3/_assets/libs/p5.min.js	/^!function(e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function"=/;"	m	class:f
